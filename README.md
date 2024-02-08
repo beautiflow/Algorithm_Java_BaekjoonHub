@@ -1,2 +1,2 @@
-# https-github.com-beautiflow-Algorithm_Java
+# beautiflow-Algorithm_Java
 This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
