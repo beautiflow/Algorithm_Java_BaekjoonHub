@@ -14,12 +14,14 @@ class Solution {
         
         if (arr1.length > arr2.length || (arr1.length == arr2.length && arr1Sum > arr2Sum)) {
              answer = 1;
-        } else if (arr1.length < arr2.length || (arr1.length == arr2.length && arr1Sum < arr2Sum)) {
+        } else if (arr1.length < arr2.length || (arr1.length == arr2.length && arr1Sum < sum2)) {
             answer = -1;
         } else {
             answer = 0;
         }
-                
+        
+        return answer;
+        
         
         return answer;
     }
